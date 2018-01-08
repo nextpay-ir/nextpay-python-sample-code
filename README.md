@@ -84,12 +84,22 @@ Use the sample code to get the transaction status code or state of payment [succ
             nextpay.error_report (nextpay.status)
 
 URLS:
-  `Nextpay.ir <https://nextpay.ir>`_
-  `Nextpay registration <https://api.nextpay.org/account/signup/>`_
-  `Instagram <https://instagram.com/nextpay.ir>`_
-  `Telegram <https://telegram.me/nextpay>`_
-  `Telegram Bot <https://telegram.me/nextpaybot>`_
-  `Google Plus <https://plus.google.com/+NextPayIR>`_
-  `facebook <https://facebook.com/nextpay.ir>`_
-  `Twitter <https://twitter.com/nextpay_ir>`_
-  `Github <https://github.com/nextpay-ir>`_
+  
+  `Nextpay.ir <https://nextpay.ir>`
+  
+  `Nextpay registration <https://api.nextpay.org/account/signup/>`
+  
+  `Instagram <https://instagram.com/nextpay.ir>`
+  
+  `Telegram <https://telegram.me/nextpay>`
+  
+  `Telegram Bot <https://telegram.me/nextpaybot>`
+  
+  `Google Plus <https://plus.google.com/+NextPayIR>`
+  
+  `facebook <https://facebook.com/nextpay.ir>`
+  
+  `Twitter <https://twitter.com/nextpay_ir>`
+  
+  `Github <https://github.com/nextpay-ir>`
+  
